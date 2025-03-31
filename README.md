@@ -8,7 +8,7 @@ The course is scheduled from **March 31 to April 4, 2025**.
 The **Google Generative AI Intensive** is a free, online program developed by Google's machine learning researchers and engineers.  
 It offers a blend of theoretical insights and hands-on coding exercises, enabling participants to confidently undertake new Generative AI projects.  
 
-[More Details](https://engineering.01cloud.com/2025/02/27/master-generative-ai-with-googles-free-5-day-intensive/?utm_source=chatgpt.com) | [Event Blog](https://engineering.01cloud.com/2025/02/27/master-generative-ai-with-googles-free-5-day-intensive/?utm_source=chatgpt.com)
+[More Details](https://engineering.01cloud.com/2025/02/27/master-generative-ai-with-googles-free-5-day-intensive/?utm_source=chatgpt.com) | [Event Blog](https://engineering.01cloud.com/2025/02/27/master-generative-ai-with-googles-free-5-day-intensive/?utm_source=chatgpt.com) | [Google Blog](https://blog.google/technology/developers/google-kaggle-genai-intensive/?utm_source=chatgpt.com)
 
 ## Topics Covered
 
@@ -19,9 +19,6 @@ The course curriculum spans a range of topics, including:
 - **Generative AI Agents**
 - **Domain-Specific Large Language Models (LLMs)**
 - **MLOps for Generative AI**
-
-These subjects are explored through podcasts, whitepapers, code labs, and live sessions with Google experts.  
-[Google Blog](https://blog.google/technology/developers/google-kaggle-genai-intensive/?utm_source=chatgpt.com)
 
 ## Additional Resources
 
