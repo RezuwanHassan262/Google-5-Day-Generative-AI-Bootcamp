@@ -1,4 +1,4 @@
-# Google Generative AI Intensive 2025Q1 Bootcamp Resources
+# Google Generative AI Intensive 2025 Bootcamp Resources
 
 This repository contains resources and materials from the **Google Generative AI Intensive 2025Q1**, a comprehensive 5-day course designed to deepen understanding of fundamental technologies and techniques behind Generative AI.  
 The course is scheduled from **March 31 to April 4, 2025**.
@@ -34,13 +34,6 @@ The course curriculum spans a range of topics, including:
 These subjects are explored through podcasts, whitepapers, code labs, and live sessions with Google experts.  
 [Google Blog](https://blog.google/technology/developers/google-kaggle-genai-intensive/?utm_source=chatgpt.com)
 
-## How to Participate
-
-To join the course, register at the official event page:  
-👉 [Google Generative AI Intensive 2025Q1](https://rsvp.withgoogle.com/events/google-generative-ai-intensive_2025q1)
-
-Upon registration, daily assignments and resources will be delivered directly to your inbox throughout the duration of the course.
-
 ## Additional Resources
 
 For those seeking to further their knowledge in Generative AI, consider exploring:
@@ -48,10 +41,6 @@ For those seeking to further their knowledge in Generative AI, consider explorin
 - [5-Day Gen AI Intensive Course with Google Learn Guide (Kaggle)](https://www.kaggle.com/learn-guide/5-day-genai?utm_source=chatgpt.com)
 - [Google Cloud Generative AI Training Resources](https://cloud.google.com/blog/topics/training-certifications/new-google-cloud-generative-ai-training-resources?utm_source=chatgpt.com) – includes $300 free credits
 - [Grow with Google – AI Courses and Tools](https://grow.google/ai/?utm_source=chatgpt.com)
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).
 
 ---
 
