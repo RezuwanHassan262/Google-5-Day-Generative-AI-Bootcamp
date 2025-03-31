@@ -3,23 +3,12 @@
 This repository contains resources and materials from the **Google Generative AI Intensive 2025Q1**, a comprehensive 5-day course designed to deepen understanding of fundamental technologies and techniques behind Generative AI.  
 The course is scheduled from **March 31 to April 4, 2025**.
 
-## Course Overview
+## Bootcamp Overview
 
 The **Google Generative AI Intensive** is a free, online program developed by Google's machine learning researchers and engineers.  
 It offers a blend of theoretical insights and hands-on coding exercises, enabling participants to confidently undertake new Generative AI projects.  
-More details [here](https://engineering.01cloud.com/2025/02/27/master-generative-ai-with-googles-free-5-day-intensive/?utm_source=chatgpt.com)
 
-## Daily Structure
-
-Each day of the course includes:
-
-- **Daily Assignments**  
-  Access to cutting-edge white papers, AI-generated podcasts via NotebookLM, and hands-on codelabs within AI Studio.
-- **Dedicated Discussion Threads**  
-  Engage with fellow learners and Google experts on Kaggle’s Discord server.
-- **Live Seminars & AMAs**  
-  Participate in daily livestream sessions on Kaggle’s YouTube channel, featuring expert-led deep dives and Q&A sessions.  
-  [Event Blog](https://engineering.01cloud.com/2025/02/27/master-generative-ai-with-googles-free-5-day-intensive/?utm_source=chatgpt.com)
+More details [here](https://engineering.01cloud.com/2025/02/27/master-generative-ai-with-googles-free-5-day-intensive/?utm_source=chatgpt.com) | [Event Blog](https://engineering.01cloud.com/2025/02/27/master-generative-ai-with-googles-free-5-day-intensive/?utm_source=chatgpt.com)
 
 ## Topics Covered
 
