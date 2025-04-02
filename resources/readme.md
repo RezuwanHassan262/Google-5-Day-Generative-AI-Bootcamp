@@ -5,6 +5,8 @@ Day 1: [Generative AI Basics, Foundational LLMs & Text Generation](https://youtu
 
 Day 2: [Retrieval-Augmented Generation (RAG), Embeddings & Vector Stores](https://youtu.be/xCAVsst6WJ8?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE)
 
+Day 3: [Agents](https://youtu.be/D3Kaqz7VW28?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE
+) | [Agents Companion](https://youtu.be/7rbSwt-7odQ?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE)
 
 
 
