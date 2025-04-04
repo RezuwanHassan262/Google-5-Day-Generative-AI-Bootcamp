@@ -9,8 +9,7 @@ Day 3: [Agents](https://youtu.be/D3Kaqz7VW28?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kG
 
 Day 4: [Solving Domain-Specific Problems Using LLMs](https://youtu.be/MWqspvVvNzA?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE)
 
-Day 5: [---](---) | [---](---)
-
+Day 5: [Operationalizing Generative AI on Vertex AI using MLOps](https://youtu.be/Hbk8UXavHrk?list=PLqFaTIg4myu_yKJpvF8WE2JfaG5kGuvoE)
 
 
 
